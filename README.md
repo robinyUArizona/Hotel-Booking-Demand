@@ -17,6 +17,7 @@ The dataset is from Hotel Booking Demand Datasets availabe on Kaggle (https://ww
 
 
 # Data fields
+<!---
 **hotel** -  Hotel (H1 = Resort Hotel or H2 = City Hotel)<br/>
 **is_canceled** - Value indicating if the booking was canceled (1) or not (0) <br/>
 **lead_time** - Number of days that elapsed between the booking date and the arrival date <br/>
@@ -41,6 +42,6 @@ The dataset is from Hotel Booking Demand Datasets availabe on Kaggle (https://ww
 **adr** - Average Daily Rate as defined by dividing the sum of all lodging transactions by the total number of staying nights <br/>
 **required_car_parking_spaces** -  Number of car parking spaces required by the customer <br/>
 **total_of_special_requests** - Number of special requests made by the customer (e.g. twin bed or high floor)<br/>
-
+--->
 
 
