@@ -5,7 +5,8 @@ Our main aim with this project is to help the hospitality industry generate the 
 • Predict the future possibility of no shows
 
 # File descriptions
-**EDA-Hotel-Booking_Demand.ipynb** - sefsdfs <br/>
+**EDA-Feature Engineering -- Hotel-Booking_Demand.ipynb** -  <br/>
+**Modelling -- Hotel-Booking_Demand.ipynb** -  <br/>
 **readme.md** - This file <br/>
 
 
