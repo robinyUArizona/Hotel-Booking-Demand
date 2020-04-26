@@ -6,7 +6,7 @@ Our main aim with this project is to help the hospitality industry generate the 
 
 # File descriptions
 **EDA-Feature Engineering -- Hotel-Booking_Demand.ipynb** -  <br/>
-**Modelling -- Hotel-Booking_Demand.ipynb** -  <br/>
+**Modelling -- Hotel-Booking-Demand.ipynb** -  <br/>
 **readme.md** - This file <br/>
 
 
