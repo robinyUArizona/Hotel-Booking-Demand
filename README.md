@@ -15,32 +15,13 @@ The dataset is from Hotel Booking Demand Datasets availabe on Kaggle (https://ww
 • hotel_bookings.csv - the data set (contains 119390 records which has 32 different features) 
 
 
-# Data fields
-<!---
-**hotel** -  Hotel (H1 = Resort Hotel or H2 = City Hotel)<br/>
-**is_canceled** - Value indicating if the booking was canceled (1) or not (0) <br/>
-**lead_time** - Number of days that elapsed between the booking date and the arrival date <br/>
-**arrival_date_month** - Month of arrival date <br/>
-**arrival_date_week_number** - Week number of year for arrival date <br/>
-**arrival_date_day_of_month** -  Day of arrival date <br/>
-**stays_in_weekend_nights** - Number of weekend nights (Saturday or Sunday) the guest stayed or booked to stay at the hotel <br/>
-**stays_in_week_nights** - Number of week nights (Monday to Friday) the guest stayed or booked to stay at the hotel <br/>
-**meal** - Type of meal booked. <br/>
-**country** - Country of origin. <br/>
-**market_segment** - Market segment designation. In categories, “TA” means “Travel Agents” and “TO” means “Tour Operators” <br/>
-**distribution_channel** - Booking distribution channel. The term “TA” means “Travel Agents” and “TO” means “Tour Operators”<br/>
-**is_repeated_guest** - Value indicating if the booking name was from a repeated guest (1) or not (0) <br/>
-**previous_cancellations** -  Number of previous bookings that were cancelled by the customer prior to the current booking <br/>
-**previous_bookings_not_canceled** - Number of previous bookings not cancelled by the customer prior to the current booking <br/>
-**booking_changes** - Number of changes made to the booking from the moment the booking to the check-in or cancellation <br/>
-**deposit_type** -  Three categories: No Deposit, Non Refund, Refundable <br/>
-**agent** - ID of the travel agency that made the booking <br/>
-**company** - ID of the company that made the booking or responsible for paying the booking. <br/>
-**days_in_waiting_list** - Number of days the booking was in the waiting list before it was confirmed to the customer <br/>
-**customer_type** - Type of booking, assuming one of four categories: Contract, Group, Transient, Transient-party <br/>
-**adr** - Average Daily Rate as defined by dividing the sum of all lodging transactions by the total number of staying nights <br/>
-**required_car_parking_spaces** -  Number of car parking spaces required by the customer <br/>
-**total_of_special_requests** - Number of special requests made by the customer (e.g. twin bed or high floor)<br/>
---->
+# Few Data fields
+**Length of stay** - The length of stay determines the duration of the stay by the number of nights stayed at the hotel <br>
+**Number of adults** – This provides the number of adults that stayed at the hotel <br>
+**Number of parking spaces** - This informs us about the number of available parking spaces required by the customers <br>
+**Weekends or the Weekdays** – This tells us about whether the booking was made for a weekday or weekend <br>
+**Deposit or not** – This describes whether there was a deposit made with the booking <br>
+**Canceled** - This informs us if the booking was cancelled <br>
+**No Show** - This informs us if there is a no show
 
 
