@@ -3,7 +3,7 @@ The growth of online distribution has grown by 46% from 2014 to 2018. The hold h
 
 ## File descriptions
 - EDA-Feature Engineering -- Hotel-Booking_Demand.ipynb  <br/>
-- ML-mtion Prediction.ipynb   <br/>
+- ML-modelling -- Hotel Bookings Cancellation Prediction.ipynb   <br/>
 - readme.md - This file <br/>
 
 
