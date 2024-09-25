@@ -22,22 +22,14 @@ Our aim with this project is to help the hospitality industry generate the maxim
 ## This project is divided in 5 sections:
 
     1.Data Exploration
-    
         1.1 The Data, Data Description & Preprocessing
-
         1.2 Removing Duplicate observations
-    
         1.3 Assessing Missing Values
-    
         1.4 Investigating the datasets
-        
         1.5 EDA (Exploratory Data Analysis)
-        
         1.6 Re-encoding Some Features (Feature Engineering)
 
-
     2.0 Some Data Visualization
-     
      
     3.0 Feature Engineering
         3.1 Numerical Columns
@@ -47,9 +39,7 @@ Our aim with this project is to help the hospitality industry generate the maxim
         3.2 Categorical Columns
                 A. Chi Square Test & Fisher Score
      
-      
     4.0 Model Selection: Logitic Regression, Gradient Boosting and Random Forest
-        
         4.1 Feature Importances
 
 
