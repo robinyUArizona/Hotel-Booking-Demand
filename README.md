@@ -1,5 +1,4 @@
 # Hotel Booking Demand
-The growth of online distribution has grown by 46% from 2014 to 2018. The hold has shifted from manual bookings to online travel agencies by almost 68% in 2018. The hospitality industry is facing issues in revenue generation due to ease of cancellations of the bookings made. Based on the data collected in 2018, almost 40% of the revenue is cancelled before arrival. This comes with the possibility of easy online bookings and their cancellations. It has become crucial to perform an analysis to help the industry to maximize its revenue generation and predict false bookings and probable cancellations in order to use their resources judiciously.
 
 ![Example Image](images/hotel_booking_pic.PNG)
 
@@ -8,7 +7,7 @@ The growth of online distribution has grown by 46% from 2014 to 2018. The hold h
 
 
 ### Problem Statement
-The growth of online distribution has grown by 46% from 2014 to 2018. The hold has shifted from manual bookings to online travel agencies by almost 68% in 2018. The hospitality industry is facing issues in revenue generation due to ease of cancellations of the bookings made. Based on the data collected in 2018, almost 40% of the revenue is cancelled before arrival. This comes with the possibility of easy online bookings and their cancellations. 
+The growth of online distribution has grown by 46% from 2014 to 2018. The hold has shifted from manual bookings to online travel agencies by almost 68% in 2018. The hospitality industry is facing issues in revenue generation due to ease of cancellations of the bookings made. Based on the data collected in 2018, almost 40% of the revenue is cancelled before arrival. This comes with the possibility of easy online bookings and their cancellations. It has become crucial to perform an analysis to help the industry to maximize its revenue generation and predict false bookings and probable cancellations in order to use their resources judiciously. 
 
 ### Goal
 Our aim with this project is to help the hospitality industry generate the maximum revenue with the resources available to them based on the factors identified. Specifically, in this project, our goal is to:
@@ -21,26 +20,33 @@ Our aim with this project is to help the hospitality industry generate the maxim
 
 ## This project is divided in 5 sections:
 
-    1.Data Exploration
-        1.1 The Data, Data Description & Preprocessing
-        1.2 Removing Duplicate observations
-        1.3 Assessing Missing Values
-        1.4 Investigating the datasets
-        1.5 EDA (Exploratory Data Analysis)
-        1.6 Re-encoding Some Features (Feature Engineering)
+    # 2. Discover the Problem
+This project is divided in 5 sections:
 
-    2.0 Some Data Visualization
+    1. Connection to MySQL database and loading and reading data
+
+    2. Data Exploration
+        2.1 The Data, Data Description & Preprocessing
+        2.2 Removing Duplicate observations
+        2.3 Assessing Missing Values
+        2.4 Investigating the datasets
+        2.5 EDA (Exploratory Data Analysis)
+        2.6 Re-encoding Some Features (Feature Engineering)
+
+    3.0 Some Data Visualization
      
-    3.0 Feature Engineering
-        3.1 Numerical Columns
+    4.0 Feature Engineering
+        4.1 Numerical Columns
                 A. Correlation Matrix and Heat-map
                 B. Recursive Feature Elimination
                 C. Feature Importance (ExtraTreesClassifier())
-        3.2 Categorical Columns
+        4.2 Categorical Columns
                 A. Chi Square Test & Fisher Score
      
-    4.0 Model Selection: Logitic Regression, Gradient Boosting and Random Forest
-        4.1 Feature Importances
+    5.0 Model Selection: Logitic Regression, Gradient Boosting and Random Forest
+        5.1 Feature Importances
+        
+    6.0 Conclusion
 
 
 
