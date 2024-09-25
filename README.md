@@ -19,10 +19,6 @@ Our aim with this project is to help the hospitality industry generate the maxim
 
 
 ## This project is divided in 5 sections:
-
-    # 2. Discover the Problem
-This project is divided in 5 sections:
-
     1. Connection to MySQL database and loading and reading data
 
     2. Data Exploration
