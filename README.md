@@ -7,13 +7,14 @@ The growth of online distribution has grown by 46% from 2014 to 2018. The hold h
 
 
 
-## Problem Statement:
+### Problem Statement
 The growth of online distribution has grown by 46% from 2014 to 2018. The hold has shifted from manual bookings to online travel agencies by almost 68% in 2018. The hospitality industry is facing issues in revenue generation due to ease of cancellations of the bookings made. Based on the data collected in 2018, almost 40% of the revenue is cancelled before arrival. This comes with the possibility of easy online bookings and their cancellations. 
 
-Our main aim with this project is to help the hospitality industry generate the maximum revenue with the resources available to them based on the factors identified. Specifically, in this project, our goal is to:
+### Goal
+Our aim with this project is to help the hospitality industry generate the maximum revenue with the resources available to them based on the factors identified. Specifically, in this project, our goal is to:
 - Predict the future possibility of cancellation using Predictive Analytis approach - Factors like period of stay, weather, holiday season and time of the year for the booking may play a crucial role in determining whether the booking will be productive or not. This will determine whether the booking made will be productive based on historical data.
 - Descriptive analytics to further understand patterns, trends, and anomalies in data.
-- Evaluate the performance of various models and select best two models for tuning process.
+- Evaluate the performance of various models and select best two models for hyperparameters tuning and then use this best model to make hotel bookings cancellation predition.
 
 
 
