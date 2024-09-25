@@ -1,7 +1,7 @@
 # Hotel Booking Demand
 The growth of online distribution has grown by 46% from 2014 to 2018. The hold has shifted from manual bookings to online travel agencies by almost 68% in 2018. The hospitality industry is facing issues in revenue generation due to ease of cancellations of the bookings made. Based on the data collected in 2018, almost 40% of the revenue is cancelled before arrival. This comes with the possibility of easy online bookings and their cancellations. It has become crucial to perform an analysis to help the industry to maximize its revenue generation and predict false bookings and probable cancellations in order to use their resources judiciously.
 
-![Example Image](hotel_booking_pic.PNG)
+![Example Image](images/hotel_booking_pic.PNG)
 
 
 
