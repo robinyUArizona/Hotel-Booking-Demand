@@ -18,7 +18,7 @@ Our aim with this project is to help the hospitality industry generate the maxim
 
 
 
-## This project is divided in 5 sections:
+### This project is divided in 5 sections:
     1. Connection to MySQL database and loading and reading data
 
     2. Data Exploration
@@ -46,7 +46,7 @@ Our aim with this project is to help the hospitality industry generate the maxim
 
 
 
-## File descriptions
+### File descriptions
             - data  
             - images   
             - notebooks 
@@ -54,12 +54,12 @@ Our aim with this project is to help the hospitality industry generate the maxim
             - requirementts.txt
 
 
-## Datasets
+### Datasets
 The dataset is from Hotel Booking Demand Datasets availabe on Kaggle (https://www.kaggle.com/jessemostipak/hotel-booking-demand). This dataset contains booking information for a city hotel and a resort hotel, without including any personal information of the customer. 
 • hotel_bookings.csv - the data set (contains 119390 records which has 32 different features) 
 
 
-## Few Data fields
+### Few Data fields
         - Length of stay - The length of stay determines the duration of the stay by the number of nights stayed at the hotel <br>
         - Number of adults – This provides the number of adults that stayed at the hotel <br>
         - Number of parking spaces - This informs us about the number of available parking spaces required by the customers <br>
