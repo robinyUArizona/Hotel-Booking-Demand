@@ -45,9 +45,11 @@ Our aim with this project is to help the hospitality industry generate the maxim
 
 
 ## File descriptions
-- EDA-Feature Engineering -- Hotel-Booking_Demand.ipynb  <br/>
-- ML-modelling -- Hotel Bookings Cancellation Prediction.ipynb   <br/>
-- readme.md - This file <br/>
+            - data  
+            - images   
+            - notebooks 
+            - readme.md - This file 
+            - requirementts.txt
 
 
 ## Datasets
@@ -56,12 +58,12 @@ The dataset is from Hotel Booking Demand Datasets availabe on Kaggle (https://ww
 
 
 ## Few Data fields
-- Length of stay - The length of stay determines the duration of the stay by the number of nights stayed at the hotel <br>
-- Number of adults – This provides the number of adults that stayed at the hotel <br>
-- Number of parking spaces - This informs us about the number of available parking spaces required by the customers <br>
-- Weekends or the Weekdays - This tells us about whether the booking was made for a weekday or weekend <br>
-- Deposit or not – This describes whether there was a deposit made with the booking <br>
-- Canceled - This informs us if the booking was cancelled <br>
-- No Show - This informs us if there is a no show
+        - Length of stay - The length of stay determines the duration of the stay by the number of nights stayed at the hotel <br>
+        - Number of adults – This provides the number of adults that stayed at the hotel <br>
+        - Number of parking spaces - This informs us about the number of available parking spaces required by the customers <br>
+        - Weekends or the Weekdays - This tells us about whether the booking was made for a weekday or weekend <br>
+        - Deposit or not – This describes whether there was a deposit made with the booking <br>
+        - Canceled - This informs us if the booking was cancelled <br>
+        - No Show - This informs us if there is a no show
 
 
