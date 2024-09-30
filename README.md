@@ -27,7 +27,7 @@ Our aim with this project is to help the hospitality industry generate the maxim
         2.3 Assessing Missing Values
         2.4 Investigating the datasets
         2.5 EDA (Exploratory Data Analysis)
-        2.6 Re-encoding Some Features (Feature Engineering)
+        2.6 Re-encoding some Features (Feature Engineering)
 
     3.0 Some Data Visualization
      

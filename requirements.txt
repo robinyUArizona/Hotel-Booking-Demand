@@ -5,3 +5,8 @@ matplotlib
 seaborn
 pymysql
 sqlalchemy
+pyspark
+findspark
+scikit-learn
+scipy
+imbalanced-learn

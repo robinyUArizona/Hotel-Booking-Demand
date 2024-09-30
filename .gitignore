@@ -132,8 +132,8 @@ env.bak/
 venv.bak/
 
 
-# Files and Folders
-# artifacts/
+Files and Folders
+data/
 
 
 # Spyder project settings
